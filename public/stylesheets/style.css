@@ -6,3 +6,34 @@ body {
 a {
   color: #00B7FF;
 }
+
+/* Logo */
+.social-logo {
+  width: 30px;
+  height: 30px; 
+  margin-right: 10px; 
+
+}
+
+/* Contact name in the footer */
+.my-connect-text {
+  font-size: 1.5rem;
+}
+
+.contact-img {
+  max-height: 100px;
+  margin: 30px 90px 15px 90px;
+}
+
+
+.project-img {
+  width: 300px;
+  height: 240px;
+}
+.project {
+  text-align: center;
+
+}
+.project + .project {
+  margin-top: 20px;
+}
