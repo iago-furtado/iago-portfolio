@@ -1,28 +1,32 @@
-# Iago's Portfolio
+# Personal Portfolio Website
 
-This is Iago Furtado's portfolio website, showcasing his skills and projects as a web developer. The website is built using HTML, CSS, and the Bootstrap framework to create a responsive and visually appealing design.
+## Description
 
-## About Me
+This project involves the creation of a Personal Portfolio website using Node.js, Express, and Handlebars (HBS) views. The website is hosted live on a cloud service like Render.
 
-In the "About Me" section, you'll find information about Iago's background, skills, and a brief introduction. The page is designed to provide an overview of his technical expertise and personal attributes.
+## Features
 
-## Home
+- **Four Main Pages:** The website consists of four primary pages: Home, About Me, Projects, and Contact Me.
+- **Modular Structure:** Each page is implemented as a separate view with a shared header and footer.
+- **Bootstrap for Stylish Design:** Bootstrap is used to ensure an attractive and responsive GUI design.
+- **Organized Codebase:** The project follows the Express project template structure and utilizes HBS for templating.
 
-The homepage greets you with Iago's name and a short introduction about him. The page highlights his skills and expertise in a clean and professional layout.
+## Deployment
 
-## Projects
+The project code is deployed to a cloud hosting environment, making it accessible online.
 
-The "Projects" section showcases four projects that represent Iago's abilities in various aspects of web development. Each project is presented with a name and a brief description. The images and layout of this section are designed for a seamless user experience.
+**[Live Site](https://iago-furtado.onrender.com/)**
 
-## Contact Me
+## Version Control
 
-In the "Contact Me" section, you can find Iago's contact information. He can be reached via email at iago.rhf@outlook.com or by phone at (705) 905-8320. Feel free to connect with him for inquiries or opportunities.
+Multiple commits with descriptive messages have been made to track code changes and project progress.
 
-## Acknowledgments
+## Documentation
 
-ChatGPT, an AI-based assistant, was instrumental in enhancing the website's Bootstrap design, providing advice on layout, positioning, and styling.
+The README file contains a brief description of the application. It also includes a link to the live site and mentions any external sources or themes used in the project.
 
----
+## Project Status
 
-Iago Furtado &copy; 2023
+The personal portfolio website is finalized and deployed, making it available for public access.
 
+© Iago Furtado 2023
